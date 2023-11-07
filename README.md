@@ -1,2 +1,2 @@
-# DSBDA
-This repo contains dsbda practicals
+# LAB PRACTICALS
+This repo contains Lab practicals
